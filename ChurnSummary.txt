@@ -1,9 +1,0 @@
-1. Monthly subscription customers showed the highest churn rate compared to quarterly and yearly customers.
-
-2. Customers with low feedback scores and fewer sessions were more likely to churn.
-
-3. Customers who had not logged in for many days showed a higher chance of leaving the service.
-
-4. Younger customers showed slightly higher churn behavior compared to older age groups.
-
-5. Improving customer engagement, increasing session participation and collecting regular feedback can help reduce churn.
